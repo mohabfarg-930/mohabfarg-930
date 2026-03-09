@@ -2,35 +2,34 @@
 
 🚀 Data Engineer | Big Data | Data Pipelines
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/></div>---
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/></div>---
 
 🧠 About Me
 
 💻 Data Engineer passionate about building scalable data pipelines and modern data platforms.
 
-📚 Currently learning through ALX Data Engineering Program and following Data Engineering Roadmap 2026.
+📚 Currently learning ALX Data Engineering Program
+📊 Following Data Engineering Roadmap 2026
 
-⚡ Focused on Big Data, Cloud Data Platforms, and Distributed Systems.
+⚡ Focused on Big Data • Data Pipelines • Cloud Data Platforms
 
 ---
 
 🚀 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,docker,aws,gcp,postgres,mysql,mongodb,bash,vscode" />
-</p>---
+<div align="center"><img src="https://skillicons.dev/icons?i=python,linux,git,github,docker,aws,gcp,postgres,mysql,mongodb,bash,vscode&perline=6" /></div>---
 
 📊 GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" /></p>---
-
-🔥 GitHub Streak
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight" /></p>---
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohabfarg-930&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></div>---
 
 📈 Most Used Languages
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" /></p>---
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohabfarg-930&layout=compact&theme=tokyonight&hide_border=true" /></div>---
+
+🔥 GitHub Streak
+
+<div align="center"><img src="https://streak-stats.demolab.com?user=mohabfarg-930&theme=tokyonight&hide_border=true" /></div>---
 
 🧭 Data Engineering Skills
 
@@ -45,13 +44,6 @@
 
 ---
 
-🌍 Connect With Me
-
-GitHub:
-https://github.com/USERNAME
-
----
-
-<div align="center">⭐ Building scalable data systems
+<div align="center">⭐ Building scalable data systems and modern data platforms
 
 </div>
